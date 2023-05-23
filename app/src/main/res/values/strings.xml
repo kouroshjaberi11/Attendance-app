@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_re_password">Confirm Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_logout">Log Out</string>
+    <string name="onsite">Onsite</string>
+    <string name="office">Office</string>
+    <string name="other">Other   </string>
+    <string name="instr">Please select your location</string>
+    <string name="action_submit">SUBMIT</string>
+    <string name="other_spec">If you select other, please specify your location here</string>
+    <string name="action_change_loc">Change Location</string>
+    <string name="admin_pass">Enter admin password to register as admin</string>
+    <string name="admin_check">Admin</string>
+    <string name="action_view_employee_locs">View Employee Locations</string>
+    <string name="no_results">No Results</string>
+    <string name="register_rules">Please ensure username/password are longer than 6 characters</string>
+</resources>
